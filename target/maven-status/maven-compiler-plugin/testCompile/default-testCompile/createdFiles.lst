@@ -1,0 +1,10 @@
+seleniumgenc/Utils/Address.class
+seleniumgenc/Utils/ShopifyFormData.class
+seleniumgenc/Utils/AddressCover.class
+seleniumgenc/pages/TekstacAddressBook.class
+seleniumgenc/pages/ShopifyRegisterPageBuilder.class
+seleniumgenc/Utils/City.class
+seleniumgenc/pages/ShopifyRegisterPage.class
+seleniumgenc/Utils/Gender.class
+seleniumgenc/Utils/ShopifyExcelUtils.class
+seleniumgenc/SeleniumPracticeTekstacShopifyTests.class

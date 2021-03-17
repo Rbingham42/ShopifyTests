@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [AllTests]">
+  <test name="ShopifyTests(failed)">
+    <groups>
+      <run>
+        <include name="include-group"/>
+        <exclude name="exclude-group"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="seleniumgenc.SeleniumPracticeTekstacShopifyTests">
+        <methods>
+          <include name="afterTest"/>
+          <include name="submittingFormAddsInfoToBottomTable"/>
+          <include name="beforeTest"/>
+          <include name="incomplete_form_issues_error"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- seleniumgenc.SeleniumPracticeTekstacShopifyTests -->
+    </classes>
+  </test> <!-- ShopifyTests(failed) -->
+</suite> <!-- Failed suite [AllTests] -->
